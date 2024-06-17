@@ -293,31 +293,3 @@ Output:
 Note: The symptoms that are given as input to the function should be exactly the same among the 132 symptoms in the dataset.
 
 
-"This course is very well structured and easy to learn. Anyone with zero experience of data science, python or ML can learn from this. This course makes things so easy that anybody can learn on their own. It's helping me a lot. Thanks for creating such a great course."-  Ayushi Jain | Placed at Microsoft
-
-Now's your chance to unlock high-earning job opportunities as a Data Scientist! Join our Complete Machine Learning & Data Science Program and get a 360-degree learning experience mentored by industry experts.
-
-Get hands on practice with 40+ Industry Projects, regular doubt solving sessions, and much more. Register for the Program today!
-
-
-Play Video
-author
-venugopalkadamba
- Follow
-
-37
-Previous Article
-ML | Credit Card Fraud Detection
-Next Article
-Recommendation System in Python
-Similar Reads
-Parkinson Disease Prediction using Machine Learning - Python
-Parkinson's disease is a progressive disorder that affects the nervous system and the parts of the body controlled by the nerves. Symptoms are also not that sound to be noticeable. Signs of stiffening, tremors, and slowing of movements may be signs of Parkinson's disease. But there is no ascertain way to tell whether a person has Parkinson's diseas
-6 min read
-Machine Learning Heart Disease Prediction Project in Django
-Introduction-In this article, we will implement a Machine Learning Heart disease Prediction Project using the Django framework using Python. Here, we will convert the code of the heart diseases prediction into a web form with the help of the Django framework basically we will create a form by using the Django framework and add the dataset of heart
-9 min read
-Heart Disease Prediction using Support Vector Machine
-Heart disease is a significant health concern worldwide, and early detection plays a crucial role in effective treatment and prevention. Machine learning algorithms, such as Support Vector Machines (SVM), have shown promising results in predicting heart disease based on patient data. SVM stands for Support Vector Machine are a set of supervised lea
-4 min read
-Heart Disease Prediction......
